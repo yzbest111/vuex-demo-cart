@@ -2,22 +2,22 @@
 
 ## Project setup
 ```
-npm install
+yarn 或者 npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn serve 或 npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+yarn build 或 npm run build
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+yarn lint 或 npm run lint
 ```
 
 ### Customize configuration
